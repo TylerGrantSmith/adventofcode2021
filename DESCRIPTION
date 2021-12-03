@@ -1,0 +1,14 @@
+Package: adventofcode2021
+Type: Package
+Title: Solutions to the 2021 Advent of Code
+Version: 0.0.3
+Author: Tyler Grant Smith
+Maintainer: TylerGrantSmith <tyler.grant.smith@gmail.com>
+Description: A simple placeholder for solutions
+License: MIT + file LICENSE
+Encoding: UTF-8
+LazyData: true
+Imports: 
+    glue,
+    magrittr
+RoxygenNote: 7.1.1
